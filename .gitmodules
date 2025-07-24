@@ -1,0 +1,3 @@
+[submodule "submodules/asterisk"]
+	path = submodules/asterisk
+	url = git@github.com:quadpbx-packages/asteriskbuild.git
